@@ -8,3 +8,4 @@ def generate_password(length):
 
 length = int(input("How long do you want your password to be? "))
 print("Your new password is:", generate_password(length))
+# made with help of chatgpt
